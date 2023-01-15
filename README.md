@@ -1,7 +1,5 @@
 # Hi, I'm eggnaut.
 
-## a happy egg
-
 ### Languages:
 [![Python](https://img.shields.io/static/v1?label=&logo=Python&logoColor=yellow&style=for-the-badge&message=Python&color=blue)](https://python.org) [![Markdown](https://img.shields.io/static/v1?label=&logo=Markdown&logoColor=white&style=for-the-badge&message=Markdown&color=black)](https://markdownguide.org)
 
