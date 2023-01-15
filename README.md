@@ -11,8 +11,3 @@
 
 ### Socials:
 ![Followers](https://img.shields.io/github/followers/eggnaut?logo=Github&style=for-the-badge) ![Total Stars](https://img.shields.io/github/stars/eggnaut?color=yellow&logo=Github&style=for-the-badge)
-
-### Stats:
-![eggnaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=eggnaut&show_icons=true&count_private=true&theme=github_dark&border_radius=7&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eggnaut&theme=github_dark&layout=compact)
