@@ -1,4 +1,4 @@
-# Hi, I'm eggnaut
+# Hi, I'm eggnaut.
 
 ### Languages:
 ![Python](https://img.shields.io/static/v1?label=&logo=Python&logoColor=yellow&style=for-the-badge&message=Python&color=blue)
