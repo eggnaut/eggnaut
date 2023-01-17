@@ -2,7 +2,7 @@
 
 ### Projects:
 - TinyKing (game; private)
-- EggEngine (framework; public)
+- [EggEngine](https://github.com/eggnaut/EggEngine) (framework; public)
 
 ### Languages:
 [![Python](https://img.shields.io/static/v1?label=&logo=Python&logoColor=yellow&style=for-the-badge&message=Python&color=blue)](https://python.org) [![Markdown](https://img.shields.io/static/v1?label=&logo=Markdown&logoColor=white&style=for-the-badge&message=Markdown&color=black)](https://markdownguide.org) [![LaTeX](https://img.shields.io/static/v1?label=&logo=LaTeX&logoColor=blue&style=for-the-badge&message=LaTeX&color=white)](https://latex-project.org)
