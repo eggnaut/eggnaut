@@ -14,7 +14,7 @@
 ### Tools:
 [![VSCode](https://img.shields.io/static/v1?label=&logo=Visual%20Studio%20Code&logoColor=blue&style=for-the-badge&message=VSCode&color=white)](https://code.visualstudio.com/) [![Github](https://img.shields.io/static/v1?label=&logo=Github&logoColor=white&style=for-the-badge&message=Github&color=black)](https://github.com/eggnaut) [![DuckDuckGo](https://img.shields.io/static/v1?label=&logo=DuckDuckGo&logoColor=white&style=for-the-badge&message=DuckDuckGo&color=orange)](https://duckduckgo.com) [![Itch.io](https://img.shields.io/static/v1?label=&logo=Itch.io&logoColor=white&style=for-the-badge&message=Itch.io&color=red)](https://eggnaut.itch.io) [![Git](https://img.shields.io/static/v1?label=&logo=Git&logoColor=orange&style=for-the-badge&message=Git&color=white)](https://git-scm.com)
 
-### Machine:
+### Device:
 [![Macbook Air](https://img.shields.io/static/v1?label=&logo=Apple&logoColor=black&style=for-the-badge&message=Macbook%20Air&color=white)](https://www.apple.com/macbook-air/)
 
 ### Social:
