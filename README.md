@@ -22,4 +22,4 @@
 
 ### Contibutions:
 [![generate-snk](https://github.com/eggnaut/eggnaut/blob/output/github-snake-dark.svg)](https://github.com/eggnaut)
-[![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=eggnaut&theme=github-compact)](https://github.com/eggnaut)
+[![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=eggnaut&theme=github-compact&hide_border=true)](https://github.com/eggnaut)
