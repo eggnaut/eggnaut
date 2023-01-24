@@ -2,6 +2,7 @@
 
 ### Current Projects:
 - TinyKing (game; private)
+- AutoAlgebra (software; private)
 - [EggEngine](https://github.com/eggnaut/EggEngine) (framework; public)
 
 ### Finished Projects:
