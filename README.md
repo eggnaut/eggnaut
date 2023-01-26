@@ -23,4 +23,4 @@
 
 
 ### Contributions:
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=eggnaut&theme=github-compact&hide_border=true)](https://github.com/eggnaut)
+[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=eggnaut&hide_title=true&theme=github-compact&hide_border=true)](https://github.com/eggnaut)
