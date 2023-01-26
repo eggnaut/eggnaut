@@ -20,3 +20,7 @@
 
 ### Social:
 [![Followers](https://img.shields.io/github/followers/eggnaut?logo=Github&style=for-the-badge)](https://github.com/eggnaut) [![Total Stars](https://img.shields.io/github/stars/eggnaut?color=yellow&logo=Github&style=for-the-badge&label=Total%20Stars)](https://github.com/eggnaut?tab=repositories)
+
+
+### Contributions:
+[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=eggnaut&theme=github-compact&hide_border=true)](https://github.com/eggnaut)
