@@ -24,6 +24,3 @@
 
 ### Contributions:
 [![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=eggnaut&hide_title=true&theme=github-compact&hide_border=true)](https://github.com/eggnaut)
-
-### Music:
-[![Spotify Tracks](https://spotify-recently-played-readme.vercel.app/api?user=31k3o7ghdksznelsfljynjoy3yhm)](https://open.spotify.com/)
