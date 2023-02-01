@@ -19,7 +19,7 @@
 [![Macbook Air](https://img.shields.io/static/v1?label=&logo=Apple&logoColor=black&style=for-the-badge&message=Macbook%20Air&color=white)](https://www.apple.com/macbook-air/)
 
 ### Social:
-[![Followers](https://img.shields.io/github/followers/eggnaut?logo=Github&style=for-the-badge)](https://github.com/eggnaut) [![Total Stars](https://img.shields.io/github/stars/eggnaut?color=yellow&logo=Github&style=for-the-badge&label=Total%20Stars)](https://github.com/eggnaut?tab=repositories) [![Itch.io](https://img.shields.io/static/v1?label=&logo=Itch.io&logoColor=white&style=for-the-badge&message=Itch.io&color=red)](https://eggnaut.itch.io)
+[![Followers](https://img.shields.io/github/followers/eggnaut?logo=Github&style=for-the-badge)](https://github.com/eggnaut) [![Total Stars](https://img.shields.io/github/stars/eggnaut?color=yellow&logo=Github&style=for-the-badge&label=Total%20Stars)](https://github.com/eggnaut?tab=repositories)
 
 
 ### Contributions:
