@@ -1,4 +1,4 @@
-# Hi, I'm eggnaut.
+# Hello, I'm eggnaut.
 
 ### Current Projects:
 - [AutoAlgebra](https://github.com/eggnaut/AutoAlgebra) (software; public)
