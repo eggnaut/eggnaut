@@ -1,4 +1,4 @@
-# Hello, I'm eggnaut.
+# Hello, I'm Dishant B. (eggnaut).
 
 ### Current Projects:
 - [AutoAlgebra](https://github.com/eggnaut/AutoAlgebra) (software; public)
