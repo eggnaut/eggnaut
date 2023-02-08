@@ -1,7 +1,7 @@
 # Hello, I'm Dishant B.
 
 ### Website:
-- [eggnaut.github.io](https://eggnaut.github.io)
+- [eggnaut.github.io](https://eggnaut.github.io) (personal site; public)
 
 ### Current Projects:
 - [AutoAlgebra](https://github.com/eggnaut/AutoAlgebra) (software; public)
