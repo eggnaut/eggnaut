@@ -1,5 +1,5 @@
 <div align = 'center'>
-<img width = '400' height = '400' src = 'https://github.com/eggnaut/eggnaut/blob/main/docs/eggnaut-logo.png'> </img>
+<img width = '400' height = '400' src = 'https://github.com/eggnaut/eggnaut/blob/main/docs/logo.png'> </img>
 <h1> Hello, I'm Dishant B. </h1>
 </div>
 
