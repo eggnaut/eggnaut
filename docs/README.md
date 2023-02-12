@@ -12,7 +12,6 @@ You can visit my website [here](https://eggnaut.github.io).
 - [euclid](https://github.com/eggnaut/euclid) (software; public)
 - [da vinci](https://github.com/eggnaut/da-vinci) (framework; public)
 - [personal site](https://github.com/eggnaut/eggnaut.github.io) (website; public)
-- Tiny King (game; private)
 
 ### Finished Projects:
 - Bugs 'n' Bunny (game; private)
