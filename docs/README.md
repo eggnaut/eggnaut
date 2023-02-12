@@ -1,5 +1,4 @@
 <div align = 'center'>
-<img width = '400' height = '400' src = './logo.png'> </img>
 <h1> Hello, I'm Dishant B. </h1>
 </div>
 
