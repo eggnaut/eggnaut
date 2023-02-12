@@ -1,4 +1,6 @@
-# Hello, I'm Dishant B.
+<div align = 'center'>
+<h1> Hello, I'm Dishant B. </h1>
+</div>
 
 ### Website:
 - [eggnaut.github.io](https://eggnaut.github.io) (personal site; public)
