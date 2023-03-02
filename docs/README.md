@@ -9,7 +9,6 @@ You can visit my website [here](https://eggnaut.github.io).
 
 ### Current Projects:
 - [euclid](https://github.com/eggnaut/euclid) (software; public)
-- [socrates](https://github.com/eggnaut/socrates) (software; public)
 - [da vinci](https://github.com/eggnaut/da-vinci) (framework; public)
 - [personal site](https://github.com/eggnaut/eggnaut.github.io) (website; public)
 
