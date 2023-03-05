@@ -8,7 +8,7 @@ Hello! You may know me as @eggnaut, but that's just a username. There's a lot mo
 You can visit my website [here](https://eggnaut.github.io).
 
 ### Current Projects:
-- socrates (software; private)
+- socrates (framework; private)
 - [personal site](https://github.com/eggnaut/eggnaut.github.io) (website; public)
 
 ### Finished Projects:
