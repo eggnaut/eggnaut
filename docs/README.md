@@ -8,10 +8,11 @@ Hello! You may know me as @eggnaut, but that's just a username. There's a lot mo
 You can visit my website [here](https://eggnaut.github.io).
 
 ### Current Projects:
-- [euclid](https://github.com/eggnaut/euclid) (software; public)
+- socrates (software; private)
 - [personal site](https://github.com/eggnaut/eggnaut.github.io) (website; public)
 
 ### Finished Projects:
+- [euclid](https://github.com/eggnaut/euclid) (software; public)
 - [da vinci](https://github.com/eggnaut/da-vinci) (framework; public)
 - Bugs 'n' Bunny (game; private)
 - Cotton Fields (game; private)
